@@ -1,4 +1,3 @@
-# hello-world
-just another 
+# hello-world 
 tejashree here!
 i am studying masters of information technology
